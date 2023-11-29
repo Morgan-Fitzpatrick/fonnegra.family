@@ -1,0 +1,67 @@
+
+body{
+	background-color: #FBCEB1;
+	font-family: 'Californian FB', cavoloni, verdana, san-serif;
+}
+
+p{
+	color:black;
+}
+
+#banner{
+	width:45%;
+	height: 90px;
+	background-image: url("../images/banner.jpg");
+	/* background-repeat: no-repeat;
+	background-size:cover; */
+}
+
+nav{
+	width: 95%;
+	height: 60px;
+	background-color: #E3963E;
+}
+
+nav ul li{
+	color: black;
+	font-size: 45px;
+	list-style-type: none;
+	float: left;
+}
+
+nav ul li a{
+	color: black;
+	text-decoration: none;
+	margin: 50px;
+	padding: 10px;
+}
+
+nav ul li a:hover{
+	color:white;
+}
+
+#calendar{
+	width: 600px;
+	height:550px;
+	position: relative;
+	left: 700px;
+	bottom: 600px;
+}
+
+#parents{
+	position: relative;
+	right: 550px;
+	bottom: 200px;
+}
+
+#lucas{
+	position: relative;
+	right: 250px;
+	bottom: 200px;
+}
+
+#octavia{
+	position: relative;
+	left: 200px;
+	bottom: 200px;
+}
