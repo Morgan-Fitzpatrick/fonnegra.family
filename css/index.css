@@ -10,7 +10,7 @@ p{
 
 #banner{
 	width:45%;
-	height: 90px;
+	height: 50px;
 	background-image: url("../images/banner.jpg");
 	/* background-repeat: no-repeat;
 	background-size:cover; */
@@ -18,13 +18,13 @@ p{
 
 nav{
 	width: 95%;
-	height: 60px;
+	height: 30px;
 	background-color: #E3963E;
 }
 
 nav ul li{
 	color: black;
-	font-size: 45px;
+	font-size: 20px;
 	list-style-type: none;
 	float: left;
 }
@@ -44,7 +44,7 @@ nav ul li a:hover{
 	width: 600px;
 	height:550px;
 	position: relative;
-	left: 700px;
+	left: 600px;
 	bottom: 600px;
 }
 
@@ -56,12 +56,36 @@ nav ul li a:hover{
 
 #lucas{
 	position: relative;
-	right: 250px;
+	right: 300px;
 	bottom: 200px;
 }
 
 #octavia{
 	position: relative;
-	left: 200px;
-	bottom: 200px;
+	left: 1000px;
+	bottom: 425px;
+}
+#parents1{
+	position: relative;
+	right: 200px;
+	left: 50px;
+}
+#parents2{
+	position: relative;
+	right: 400px;
+	left: 100px;
+}
+#parents3{
+	position: relative;
+	left: 150px;
+}
+#parents4{
+	position: relative;
+	right: 550px;
+	top: 400px;
+}
+#parents5{
+	position: relative;
+	left: 50px;
+	top: 10px;
 }
