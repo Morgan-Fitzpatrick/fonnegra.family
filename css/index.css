@@ -89,3 +89,16 @@ nav ul li a:hover{
 	left: 50px;
 	top: 10px;
 }
+h2{
+	font-family: 'Californian FB', cavoloni, verdana, san-serif;
+	font-weight: bold;
+	font-size: 50px;
+}
+h4{
+	font-family: 'Californian FB', cavoloni, verdana, san-serif;
+	font-weight: bold;
+	font-size: 50px;
+}
+p{
+	font-family: cavoloni, comic sans MS, san-serif;
+}
