@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+	<h1> Questions or Comments Form</h1>
+	<form method="post" action="file:///C:/Users/morga/OneDrive/Desktop/website-name/index.html">
+		Enter Your Name: <input type="text" name="Name" size="40"/>
+		<br/>
+		<br/>
+		Question's and Comments:<br/>
+		<textarea name="Comments" cols="30" rows="3">
+		</textarea>
+		<br/>
+		<br/>
+		<input type="Submit"/>
+		<input type="reset"/>
+		</form>

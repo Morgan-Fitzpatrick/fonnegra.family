@@ -102,3 +102,13 @@ h4{
 p{
 	font-family: cavoloni, comic sans MS, san-serif;
 }
+h5{
+	font-family: 'Californian FB', cavoloni, verdana, san-serif;
+	font-weight: bold;
+	font-size: 50px;
+}
+h6{
+	font-family: 'Californian FB', cavoloni, verdana, san-serif;
+	font-weight: bold;
+	font-size: 50px;
+}
